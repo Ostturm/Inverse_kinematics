@@ -1,0 +1,9 @@
+/home/ostturm/Documents/iCUB/TRYNE/invy/build/CMakeFiles/install/strip.dir
+/home/ostturm/Documents/iCUB/TRYNE/invy/build/CMakeFiles/install/local.dir
+/home/ostturm/Documents/iCUB/TRYNE/invy/build/CMakeFiles/install.dir
+/home/ostturm/Documents/iCUB/TRYNE/invy/build/CMakeFiles/tutorial_inverse-kinematics-controller.dir
+/home/ostturm/Documents/iCUB/TRYNE/invy/build/CMakeFiles/tutorial_inverse-kinematics-robot.dir
+/home/ostturm/Documents/iCUB/TRYNE/invy/build/CMakeFiles/list_install_components.dir
+/home/ostturm/Documents/iCUB/TRYNE/invy/build/CMakeFiles/uninstall.dir
+/home/ostturm/Documents/iCUB/TRYNE/invy/build/CMakeFiles/edit_cache.dir
+/home/ostturm/Documents/iCUB/TRYNE/invy/build/CMakeFiles/rebuild_cache.dir

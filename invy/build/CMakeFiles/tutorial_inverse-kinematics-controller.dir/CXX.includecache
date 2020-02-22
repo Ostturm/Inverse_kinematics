@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ostturm/Documents/iCUB/TRYNE/invy/src/controller.cpp
+cstdlib
+-
+mutex
+-
+string
+-
+cmath
+-
+yarp/os/Network.h
+-
+yarp/os/LockGuard.h
+-
+yarp/os/LogStream.h
+-
+yarp/os/Bottle.h
+-
+yarp/os/ResourceFinder.h
+-
+yarp/os/RFModule.h
+-
+yarp/os/BufferedPort.h
+-
+yarp/os/RpcServer.h
+-
+yarp/sig/Vector.h
+-
+yarp/sig/Matrix.h
+-
+yarp/math/Math.h
+-
+yarp/math/SVD.h
+-
+iCub/ctrl/minJerkCtrl.h
+-
+
