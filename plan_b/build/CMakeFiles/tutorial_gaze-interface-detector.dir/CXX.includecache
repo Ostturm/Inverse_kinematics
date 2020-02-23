@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ostturm/Documents/iCUB/TRYNE/plan_b/src/detector.cpp
+cstdlib
+-
+yarp/os/Network.h
+-
+yarp/os/LogStream.h
+-
+yarp/os/RFModule.h
+-
+yarp/os/Bottle.h
+-
+yarp/sig/Image.h
+-
+yarp/os/BufferedPort.h
+-
+

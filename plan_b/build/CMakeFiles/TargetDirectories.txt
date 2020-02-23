@@ -1,0 +1,9 @@
+/home/ostturm/Documents/iCUB/TRYNE/plan_b/build/CMakeFiles/install/strip.dir
+/home/ostturm/Documents/iCUB/TRYNE/plan_b/build/CMakeFiles/install/local.dir
+/home/ostturm/Documents/iCUB/TRYNE/plan_b/build/CMakeFiles/tutorial_gaze-interface-tracker.dir
+/home/ostturm/Documents/iCUB/TRYNE/plan_b/build/CMakeFiles/install.dir
+/home/ostturm/Documents/iCUB/TRYNE/plan_b/build/CMakeFiles/tutorial_gaze-interface-detector.dir
+/home/ostturm/Documents/iCUB/TRYNE/plan_b/build/CMakeFiles/list_install_components.dir
+/home/ostturm/Documents/iCUB/TRYNE/plan_b/build/CMakeFiles/uninstall.dir
+/home/ostturm/Documents/iCUB/TRYNE/plan_b/build/CMakeFiles/edit_cache.dir
+/home/ostturm/Documents/iCUB/TRYNE/plan_b/build/CMakeFiles/rebuild_cache.dir
